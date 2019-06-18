@@ -1,0 +1,5 @@
+data/
+notebooks/
+*.fits
+*.mp4
+*.jpg
